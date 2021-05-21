@@ -5,4 +5,5 @@ function simpleArraySum(ar) {
         sum += ar[i];
     }
     return sum;
+    
 }
